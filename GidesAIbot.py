@@ -1,4 +1,5 @@
-﻿import os
+﻿#код самой крутой нейросети (нет)
+import os
 import telebot
 import random
 import time
